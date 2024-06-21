@@ -2,19 +2,19 @@
 
 Alternate way to solve NYT Spelling Bee, with Go this time!
 
-Build
+### Build
 
 ```
 go build spellbee.go
 ```
 
-Use
+### Use
 
 ```
 ./spellbee words.txt
 ```
 
-Example
+### Example
 
 ```
 Enter the center/required letter: t
